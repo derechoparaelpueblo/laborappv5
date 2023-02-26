@@ -1246,7 +1246,7 @@ for departamento in departamentos_list:
                )
     departamento_instance.save()
 """
-
+"""
 for municipio in municipios_list:
     print("municipio: ", municipio)
     print("municipio[3]:", municipio[3])
@@ -1261,7 +1261,5 @@ for municipio in municipios_list:
                )
     municipio_instance.save()
     
-
-
-
+"""
    
