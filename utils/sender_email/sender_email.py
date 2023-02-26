@@ -31,7 +31,7 @@ class SenderEmail:
                        sender_email="contacto@derechoparaelpueblo.co",
                        smtp_server="mail.derechoparaelpueblo.co",
                        port=465,
-                       password_email= "juancarlospulido2021",   #"#Stiven19111985",
+                       password_email= "Ju@n2023",   #"#Stiven19111985",
                        body = "This is an email with attachment sent from Python:"
                 ):
 
